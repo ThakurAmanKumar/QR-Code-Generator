@@ -19,7 +19,13 @@ A simple and stylish QR Code Generator built using HTML, CSS, and JavaScript. Th
 - [QR Server API](https://goqr.me/api/)  
 
 ## 📷 Screenshot  
-![QR Code Generator](https://user-images.githubusercontent.com/your-github-username/qr-code-screenshot.png)  
+
+### Before QR Code Generation  
+![QR Code Generator - Empty](https://raw.githubusercontent.com/ThakurAmanKumar/QR-Code-Generator/main/Screenshot/Screenshot%202025-03-08%20154145.png)  
+
+### After QR Code Generation  
+![QR Code Generator - Generated](https://raw.githubusercontent.com/ThakurAmanKumar/QR-Code-Generator/main/Screenshot/Screenshot%202025-03-08%20154310.png)  
+
 
 ## 📂 Installation  
 1. Clone the repository:  
