@@ -40,8 +40,10 @@ A simple and stylish QR Code Generator built using HTML, CSS, and JavaScript. Th
 3. The QR code will be displayed.  
 4. Click **Download QR Code** to save it as an image.  
 
-## 📜 License  
-This project is open-source and available under the [MIT License](LICENSE).  
+## 📜 License
+This project is licensed under the **MIT License**.  
+See the full license [here](https://github.com/ThakurAmanKumar/License/blob/main/LICENSE).
+ 
 
 ## 💡 Contributing  
 Feel free to submit issues or pull requests to improve the project!  
